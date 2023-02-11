@@ -1,3 +1,5 @@
+package JavaDesktopAppDev;
+
 import java.awt.*;
 import java.awt.event.*;
 class MyCalc extends WindowAdapter implements ActionListener{
@@ -265,4 +267,3 @@ class MyCalc extends WindowAdapter implements ActionListener{
         new MyCalc();
     }
 }
-
